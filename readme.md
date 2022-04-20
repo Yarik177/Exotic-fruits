@@ -1,6 +1,6 @@
-# Progect 9.11
+# Progect 10.11
 
-Developed as a practical task in the course "web developer" module № 9.
+Developed as a practical task in the course "web developer" module № 10.
 
 ***
 
